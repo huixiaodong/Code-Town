@@ -8,6 +8,7 @@ mysql_config_editor set --login-path=local --host=localhost --user=root --passwo
 ```
 
 - 使用mysqlpump:
+
 ```
 /mysql/mysql/bin/mysqlpump --login-path=local dknow | gzip > /mysql/backup/dknow_$(date +%Y%m%d%H%M).sql.gz
 ```
