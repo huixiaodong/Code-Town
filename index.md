@@ -12,3 +12,11 @@
 
 - [CentOS挂载本地镜像](post/linux-iso.md)
 
+- [Linux合并文件夹](post/linux-dir.md)
+
+- [SELinux](post/selinux.md)
+
+- [tar排除目录](post/tar.md)
+
+- [nginx相关配置](post/nginx.md)
+
