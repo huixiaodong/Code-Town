@@ -8,3 +8,7 @@
 
 - [CentOS安装APR](post/centos-apr.md) 
 
+- [Linux用户管理](post/linux-user.md)
+
+- [CentOS挂载本地镜像](post/linux-iso.md)
+
