@@ -20,3 +20,7 @@
 
 - [nginx相关配置](post/nginx.md)
 
+
+
+
+<center> [鲁ICP备17007129号](https://beian.miit.gov.cn) </center>
