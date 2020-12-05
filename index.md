@@ -21,6 +21,6 @@
 - [nginx相关配置](post/nginx.md)
 
 
-
-
-[鲁ICP备17007129号](https://beian.miit.gov.cn)
+<center>
+<a href="https://beian.miit.gov.cn" target="_blank">鲁ICP备17007129号</a>
+</center>
